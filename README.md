@@ -155,3 +155,5 @@ Mention and close the related issue in your pull request.
 
 
 ---
+
+The project initially did not follow good front-end development practices, featuring a simple and unstructured layout. However, with some adjustments and improvements over time, it began to incorporate more organized and efficient practices, resulting in a cleaner and more functional interface. To make it even more professional and scalable, it would be worth considering the use of a modern framework, such as React or Vue.js, which would provide a more robust and reusable structure. Additionally, integrating specialized libraries for data visualization, such as Chart.js, could significantly enhance the presentation of information, making the dashboard more dynamic and informative.
